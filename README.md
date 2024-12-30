@@ -33,8 +33,8 @@ The project uses the Iris dataset, a classic dataset for pattern recognition:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/data-transformation-assistant.git
-   cd data-transformation-assistant
+   git clone https://github.com/thejesusyung/AI_chat_interface_for_DataSpell.git
+cd AI_chat_interface_for_DataSpell
    ```
 2. Set up a Python virtual environment:
    ```bash
